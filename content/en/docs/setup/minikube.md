@@ -47,7 +47,7 @@ This brief demo guides you on how to start, use, and delete Minikube locally. Fo
     Creating machine...
     Starting local Kubernetes cluster...
     ```
-    For more information on starting your cluster on a specific Kubernetes version, VM, or container runtime, see [Starting a Cluster](docs/setup/minikube/#starting-a-cluster).
+    For more information on starting your cluster on a specific Kubernetes version, VM, or container runtime, see [Starting a Cluster](minikube#starting-a-cluster).
 
 2. Now, you can interact with your cluster using kubectl. For more information, see [Interacting with Your Cluster](minikube.md#interacting-with-your-cluster).
     
