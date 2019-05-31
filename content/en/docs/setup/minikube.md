@@ -144,7 +144,7 @@ This brief demo guides you on how to start, use, and delete Minikube locally. Fo
     Stopping "minikube"...
     "minikube" stopped.
     ```
-	For more information, see [Stopping a Cluster](docs/setup/minikube/#stopping-a-cluster).
+	For more information, see [Stopping a Cluster](minikube.md#stopping-a-cluster).
 10. Delete the local Minikube cluster:
     ```shell
     minikube delete
