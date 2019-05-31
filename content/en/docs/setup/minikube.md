@@ -49,7 +49,7 @@ This brief demo guides you on how to start, use, and delete Minikube locally. Fo
     ```
     For more information on starting your cluster on a specific Kubernetes version, VM, or container runtime, see [Starting a Cluster](minikube.md#starting-a-cluster).
 
-2. Now, you can interact with your cluster using kubectl. For more information, see [Interacting with Your Cluster](minikube.md#interacting-with-your-cluster).
+2. Now, you can interact with your cluster using kubectl. For more information, see [Interacting with Your Cluster](#interacting-with-your-cluster).
     
     Let’s create a Kubernetes Deployment using an existing image named `echoserver`, which is a simple HTTP server and expose it on port 8080 using `--port`.
     ```shell
